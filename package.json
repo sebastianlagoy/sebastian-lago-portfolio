@@ -1,0 +1,8 @@
+{
+  "name": "sebastian-lago-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio personal con chatbot IA",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
